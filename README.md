@@ -1,13 +1,25 @@
 
-### Cómo Usar el `README.md`
+# Juego de Adivinanza de Números
 
-1. **Crea un Archivo**: En tu proyecto, crea un archivo llamado `README.md`.
-2. **Copia y Pega el Contenido**: Copia el contenido del ejemplo anterior y pégalo en el archivo `README.md`.
-3. **Personaliza**: Asegúrate de reemplazar:
-   - `tu_usuario` con tu nombre de usuario de GitHub.
-   - `Tu nombre o seudónimo` con tu nombre o seudónimo real.
-   - Cualquier otra información que consideres relevante.
+## Descripción
 
-### Siguientes Pasos
+El **Juego de Adivinanza de Números** es una aplicación sencilla en Python que desafía a los jugadores a adivinar un número aleatorio generado por el programa. El número está en el rango de 1 a 100, y el jugador recibe pistas sobre si su adivinanza es demasiado alta o demasiado baja. El juego continúa hasta que el jugador adivina el número correcto.
 
-Una vez que hayas creado el archivo `README.md`, puedes proceder a hacer commit de tus cambios y subir tu proyecto a GitHub. Si necesitas ayuda con el proceso de subir el repositorio, ¡dímelo!
+## Características
+
+- Genera un número aleatorio entre 1 y 100.
+- Proporciona retroalimentación sobre la adivinanza (demasiado bajo o demasiado alto).
+- Mensaje de felicitación al adivinar correctamente.
+- Simple y fácil de jugar.
+
+## Requisitos
+
+- Python 3.x
+- No se requieren bibliotecas externas.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu_usuario/juego_adivinanza.git
